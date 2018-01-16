@@ -1,0 +1,1 @@
+$ANDROID_HOME/build-tools/27.0.3/dx --dex --output=a.apk x.jar
